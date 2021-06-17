@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FedeTube/static/css/main.67c0a86f.chunk.css",
+    "main.js": "/FedeTube/static/js/main.21156cb7.chunk.js",
+    "main.js.map": "/FedeTube/static/js/main.21156cb7.chunk.js.map",
+    "runtime-main.js": "/FedeTube/static/js/runtime-main.ff28a81a.js",
+    "runtime-main.js.map": "/FedeTube/static/js/runtime-main.ff28a81a.js.map",
+    "static/js/2.f0ae129b.chunk.js": "/FedeTube/static/js/2.f0ae129b.chunk.js",
+    "static/js/2.f0ae129b.chunk.js.map": "/FedeTube/static/js/2.f0ae129b.chunk.js.map",
+    "index.html": "/FedeTube/index.html",
+    "static/css/main.67c0a86f.chunk.css.map": "/FedeTube/static/css/main.67c0a86f.chunk.css.map",
+    "static/js/2.f0ae129b.chunk.js.LICENSE.txt": "/FedeTube/static/js/2.f0ae129b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff28a81a.js",
+    "static/js/2.f0ae129b.chunk.js",
+    "static/css/main.67c0a86f.chunk.css",
+    "static/js/main.21156cb7.chunk.js"
+  ]
+}
