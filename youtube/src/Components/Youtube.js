@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import Player from './Player';
 import RelatedBar from './RelatedBar';
 import SearchBar from './SearchBar';
-import youtubeAPI from './youtubeAPI';
+import youtubeAPI from '../youtubeAPI';
 import Description from './Description';
 import he from 'he';
 
